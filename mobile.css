@@ -1,0 +1,64 @@
+@import url(https://fonts.google.com/specimen/Poppins);
+@import url(https://fontawesome.com/);
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.section1 {
+  background-image: url(asset/bg-hero-desktop.svg);
+  background-color: hsl(193, 100%, 96%);
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 40px;
+}
+.logo {
+  height: 20px;
+}
+.Try_it {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  background-color: white;
+  border: none;
+}
+.Sub_section {
+  padding: 40px;
+}
+.Hero_image {
+  padding-top: 40px;
+  width: 100%;
+}
+.Build {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 36px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.Build_huddle {
+  padding-top: 70px;
+}
+#huddle {
+  font-size: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.Get_started {
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 30px;
+  background-color: hsl(322, 100%, 66%);
+  border: none;
+  color: white;
+}

@@ -171,3 +171,10 @@ footer {
 .copy {
   font-size: 10px;
 }
+.Ready {
+  border: 2px #bcafaf solid;
+  max-width: 45%;
+  background-color: white;
+  z-index: 1;
+  margin: 90px;
+}
