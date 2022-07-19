@@ -143,6 +143,11 @@ footer {
   margin-top: 83px;
   margin-left: 150px;
 }
+.secondary_footer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 83px;
+}
 .about,
 .faq,
 .what,
@@ -155,7 +160,7 @@ footer {
   color: white;
 }
 .third_footer {
-  margin-left: 170px;
+  /* margin-left: 170px; */
   margin-top: 83px;
 }
 .facebook {

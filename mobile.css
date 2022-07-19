@@ -144,14 +144,78 @@ header {
   margin-top: 40px;
   margin-bottom: 40px;
 }
-#getstarted{
+#getstarted {
   margin-top: -20px;
 }
 footer {
   background-color: hsl(192, 100%, 9%);
   font-size: 15px;
-  padding-left: 70px;
-  padding-right: 70px;
-  padding-top: 100px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 140px;
   padding-bottom: 50px;
+}
+.footer_footer {
+  color: white;
+}
+.firstfooter {
+  max-width: 300px;
+}
+.lorem {
+  margin-left: 29px;
+}
+.location {
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.phone {
+  display: flex;
+  margin-bottom: 20px;
+}
+.mail {
+  display: flex;
+}
+.second_footer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  /* margin-left: 15px; */
+}
+.secondary_footer {
+  display: flex;
+  flex-direction: column;
+  /* margin-left: 15px; */
+}
+.about,
+.faq,
+.what,
+.Career,
+.Contact,
+.Blog {
+  text-decoration: none;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: white;
+}
+.third_footer {
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.facebook {
+  border: solid 1px;
+  padding: 5px 8px;
+  border-radius: 50%;
+}
+.insta,
+.twitter {
+  margin-left: 13px;
+  margin-bottom: 140px;
+  border: solid 1px;
+  padding: 5px;
+  border-radius: 70%;
+}
+.copy {
+  font-size: 10px;
 }
